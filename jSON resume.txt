@@ -1,0 +1,72 @@
+
+for in loop 
+
+let student={
+  "name": "arun",
+  "email": "arun97@gmail.com",
+   "no": "912347545",
+   "state":"tn",
+   "mark": "80"
+}
+for(let a in student){
+  console.log(a,student[a]);
+}
+
+
+json resume.
+
+var resume =[
+  {  "name" : "MURUGAPPAN.S",
+     "Email ID" : srijamurugappan66@gmail.com",
+     "Mobile no" : "9159221304"
+   }
+   {
+   "CAREER OBJECTIVE":"To take up a challenging Career growing with honesty,loyalty,innovation towards corporate environment, 
+                       where I can express my experience, knowledge,skills and abilities to provide value for an Organization"
+    }
+  {
+     " PERSONAL QUALITIES":" Quick learner,Easily adaptable to all environment"
+    }         
+" ACADEMIC CREDITS":  [
+    {  "Course":  " B.E.Electrical and Electronics Engineering",
+      " Name of the Institution": "Hindusthan College of Engineering and Technology,Coimbatore", 
+        "University" : "AnnaUniversity,Chennai,
+       "Year of passing": "2018",
+        "CGPA/ Percentage":"6.22"
+     }
+    {
+      "Course": " HSC",
+      " Name of the Institution": "Vivekananda Higher Secondary School, Paundamangalam", 
+        "University" : "State Board, Tamil Nadu",
+       "Year of passing": "2014",
+        "CGPA/ Percentage":"88"
+     }
+    {
+     Course":  " SSLC",
+      " Name of the Institution": "rc Higher Secondary School, Pudukkottai", 
+        "University" : "State Board, Tamil Nadu",
+       "Year of passing": "2012",
+        "CGPA/ Percentage":"85"
+     }
+]
+
+   "PERSONAL INFORMATION": [
+     {
+    "Date Of Birth" : "25/09/1996",
+    "Father’s name" : "PL.Srinivasan",
+    "Mother tongue" : "Tamil",
+    "Languages known" : "Tamil, English",
+    "Nationality": "Indian"
+     }
+    "Permanent address"
+     {  "door no ":1/173, Srinivasan house,
+         "street" : "Sivan kovil near, Nachandupatti",
+         "dist" :" Pudukkottai",
+        "state": "Tamil Nadu-622 404"
+      }
+]
+{
+  "DECLARATION": "I here by declare that above the above information are true to my knowledge and belief"
+   }
+ }
+]
